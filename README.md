@@ -1,7 +1,6 @@
 # Global Street Food Cooking Method Prediction
 # How you want to cook your food? 😋
 
-1. Pre-processing
 
 Welcome to the **Global Street Food Cooking Method Prediction** project!  
 This repository demonstrates a full machine learning workflow to predict the cooking method of street foods from their ingredients, description, and vegetarian status.
